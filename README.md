@@ -1,3 +1,5 @@
+# dont run this!
+
 #!/bin/bash
 #############################################
 # AUTHOR: JONATHAN SCHWENN @JONSCHWENN      #
